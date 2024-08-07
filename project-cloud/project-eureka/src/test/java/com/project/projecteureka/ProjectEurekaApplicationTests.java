@@ -8,6 +8,7 @@ class ProjectEurekaApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("");
     }
 
 }
